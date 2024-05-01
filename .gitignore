@@ -1,0 +1,10 @@
+# -- python
+./python/venv
+./python/users.db
+ 
+# -- arduino
+./arduino/rfid_cronos/pio
+./arduino/rfid_cronos/vscode/.browse.c_cpp.db*
+./arduino/rfid_cronos/vscode/c_cpp_properties.json
+./arduino/rfid_cronos/vscode/launch.json
+./arduino/rfid_cronos/vscode/ipch
