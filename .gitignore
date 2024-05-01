@@ -3,5 +3,5 @@ python/venv/
 python/users.db
  
 # -- arduino
-arduino/rfid_cronos/pio
-arduino/rfid_cronos/vscode
+arduino/rfid_cronos/.pio
+arduino/rfid_cronos/.vscode
